@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "YellowBrickCAD Temporary website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ybrickcad_uc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/priandpasta/ybrickcad_u"
+  },
+  "keywords": [
+    "yellowbrickcad"
+  ],
+  "author": "PriandPasta",
+  "license": "ISC",
+  "homepage": "https://priandpasta.github.io/ybrickcad_uc",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
